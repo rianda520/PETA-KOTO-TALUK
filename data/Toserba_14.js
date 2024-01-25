@@ -1,0 +1,1 @@
+var json_Toserba_14 = {"type":"FeatureCollection","name":"Toserba_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Toserba":"Indrako Toserba"},"geometry":{"type":"Point","coordinates":[101.56811388973162,-0.531379921154182]}}]}

@@ -1,0 +1,1 @@
+var json_Mushola_15 = {"type":"FeatureCollection","name":"Mushola_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Mushola":"Mushola Koto Taluk"},"geometry":{"type":"Point","coordinates":[101.561928794872202,-0.536528839484613]}}]}

@@ -1,0 +1,1 @@
+var json_Uptd_8 = {"type":"FeatureCollection","name":"Uptd_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Puskesmas":"Puskesmas Koto Taluk"},"geometry":{"type":"Point","coordinates":[101.570296342095148,-0.534095999990692]}}]}
