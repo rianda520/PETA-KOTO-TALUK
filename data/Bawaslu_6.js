@@ -1,0 +1,1 @@
+var json_Bawaslu_6 = {"type":"FeatureCollection","name":"Bawaslu_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Bawaslu":"Bawaslu Kuansing"},"geometry":{"type":"Point","coordinates":[101.5698772544159,-0.534756595824078]}}]}

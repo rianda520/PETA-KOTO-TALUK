@@ -1,0 +1,1 @@
+var json_Desa_12 = {"type":"FeatureCollection","name":"Desa_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Kantor":"Kantor Desa Koto Taluk"},"geometry":{"type":"Point","coordinates":[101.566109016893165,-0.534713976738053]}}]}
